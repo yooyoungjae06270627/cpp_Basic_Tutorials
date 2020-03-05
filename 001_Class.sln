@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002_C++의 생성자와 소
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004_C++의 상속", "004_C++의 상속\004_C++의 상속.vcxproj", "{80EEFFD1-FBF3-40E5-AE87-645AB09F7C17}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006_C++ 함수의 오버로딩", "006_C++ 함수의 오버로딩\006_C++ 함수의 오버로딩.vcxproj", "{7F2172D6-F09B-4EAE-82D8-5466DA9C2820}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005_C++의 캡슐화", "005_C++의 캡슐화\005_C++의 캡슐화.vcxproj", "{08A14173-2DDE-4B6F-8040-B9B232E32B09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +45,22 @@ Global
 		{80EEFFD1-FBF3-40E5-AE87-645AB09F7C17}.Release|x64.Build.0 = Release|x64
 		{80EEFFD1-FBF3-40E5-AE87-645AB09F7C17}.Release|x86.ActiveCfg = Release|Win32
 		{80EEFFD1-FBF3-40E5-AE87-645AB09F7C17}.Release|x86.Build.0 = Release|Win32
+		{7F2172D6-F09B-4EAE-82D8-5466DA9C2820}.Debug|x64.ActiveCfg = Debug|x64
+		{7F2172D6-F09B-4EAE-82D8-5466DA9C2820}.Debug|x64.Build.0 = Debug|x64
+		{7F2172D6-F09B-4EAE-82D8-5466DA9C2820}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F2172D6-F09B-4EAE-82D8-5466DA9C2820}.Debug|x86.Build.0 = Debug|Win32
+		{7F2172D6-F09B-4EAE-82D8-5466DA9C2820}.Release|x64.ActiveCfg = Release|x64
+		{7F2172D6-F09B-4EAE-82D8-5466DA9C2820}.Release|x64.Build.0 = Release|x64
+		{7F2172D6-F09B-4EAE-82D8-5466DA9C2820}.Release|x86.ActiveCfg = Release|Win32
+		{7F2172D6-F09B-4EAE-82D8-5466DA9C2820}.Release|x86.Build.0 = Release|Win32
+		{08A14173-2DDE-4B6F-8040-B9B232E32B09}.Debug|x64.ActiveCfg = Debug|x64
+		{08A14173-2DDE-4B6F-8040-B9B232E32B09}.Debug|x64.Build.0 = Debug|x64
+		{08A14173-2DDE-4B6F-8040-B9B232E32B09}.Debug|x86.ActiveCfg = Debug|Win32
+		{08A14173-2DDE-4B6F-8040-B9B232E32B09}.Debug|x86.Build.0 = Debug|Win32
+		{08A14173-2DDE-4B6F-8040-B9B232E32B09}.Release|x64.ActiveCfg = Release|x64
+		{08A14173-2DDE-4B6F-8040-B9B232E32B09}.Release|x64.Build.0 = Release|x64
+		{08A14173-2DDE-4B6F-8040-B9B232E32B09}.Release|x86.ActiveCfg = Release|Win32
+		{08A14173-2DDE-4B6F-8040-B9B232E32B09}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
